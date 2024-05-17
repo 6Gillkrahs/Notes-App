@@ -1,1 +1,1 @@
-This is a project for android, it's called note taking app, my team developed this app in 3 weeks, including brainstorming ideas for the project, this project has 4 members : Do Van Quan(me), Nguyen Tien Dat,Nguyen Huu Duc,Pham Tien Thanh
+
