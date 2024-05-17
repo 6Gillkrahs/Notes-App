@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Notes" android:icon="@drawable/notes"  android:id="@+id/notes"/>
+    <item android:title="My Day" android:icon="@drawable/myday_icon"   android:id="@+id/myday"/>
+    <item android:title="Important" android:icon="@drawable/ip"  android:id="@+id/important"/>
+</menu>
